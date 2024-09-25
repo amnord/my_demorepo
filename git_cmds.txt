@@ -1,0 +1,5 @@
+git init  --> only once at the start of the project
+git add <file_name> or git add .
+git commit -m "write a message"
+git remote add origin <repo link> --> only once
+git push -u origin master or main
